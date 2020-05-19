@@ -9,7 +9,7 @@
 
         <variable
             name="presenter"
-            type="org.dhis2.usescases.searchTrackEntity.SearchTEContractsModule.Presenter" />
+            type="org.simprints.dhis2.usescases.searchTrackEntity.SearchTEContractsModule.Presenter" />
 
         <variable
             name="needsSearch"
@@ -368,7 +368,7 @@
                 app:backgroundTint="?attr/colorPrimary"
                 app:elevation="12dp"
                 app:fabSize="normal"
-                app:layout_behavior="org.dhis2.utils.FixedBottomViewBehavior"
+                app:layout_behavior="org.simprints.dhis2.utils.FixedBottomViewBehavior"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:searchOrAdd='@{ needsSearch }' />

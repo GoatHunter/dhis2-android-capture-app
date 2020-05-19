@@ -93,7 +93,7 @@
                 android:theme="@style/loginInputTextAccent"
                 tools:hint="this is the hint">
 
-                <org.dhis2.utils.customviews.TextInputAutoCompleteTextView
+                <org.simprints.dhis2.utils.customviews.TextInputAutoCompleteTextView
                     android:id="@+id/input_editText"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"

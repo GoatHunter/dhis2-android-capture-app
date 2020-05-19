@@ -8,7 +8,7 @@
 
         <variable
             name="presenter"
-            type="org.dhis2.usescases.datasets.dataSetTable.DataSetTableContract.Presenter" />
+            type="org.simprints.dhis2.usescases.datasets.dataSetTable.DataSetTableContract.Presenter" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

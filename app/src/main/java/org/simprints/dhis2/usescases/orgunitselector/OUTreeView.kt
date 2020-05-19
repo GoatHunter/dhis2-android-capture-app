@@ -1,0 +1,9 @@
+package org.simprints.dhis2.usescases.orgunitselector
+
+import org.simprints.dhis2.usescases.general.AbstractActivityContracts
+
+interface OUTreeView : AbstractActivityContracts.View {
+
+    fun setOrgUnits(organisationUnits: List<TreeNode>)
+    fun addOrgUnits(location: Int, organisationUnits: List<TreeNode>)
+}

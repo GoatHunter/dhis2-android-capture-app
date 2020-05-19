@@ -3,7 +3,7 @@
 
     <data/>
 
-    <org.dhis2.utils.customviews.OptionSetSelectionView
+    <org.simprints.dhis2.utils.customviews.OptionSetSelectionView
         android:id="@+id/optionSetSelectionView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />

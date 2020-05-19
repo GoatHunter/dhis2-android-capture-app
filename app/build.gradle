@@ -52,7 +52,7 @@ android {
         versionCode versions.vCode
         versionName versions.vName
 //        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
-        testInstrumentationRunner "org.dhis2.usescases.MockRunner"
+        testInstrumentationRunner "org.simprints.dhis2.usescases.MockRunner"
         vectorDrawables.useSupportLibrary = true
         multiDexEnabled true
 

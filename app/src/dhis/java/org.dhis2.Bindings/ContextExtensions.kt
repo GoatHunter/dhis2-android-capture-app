@@ -1,4 +1,4 @@
-package org.dhis2.Bindings
+package org.simprints.dhis2.Bindings
 
 import android.Manifest
 import android.content.Context
@@ -6,7 +6,7 @@ import android.content.pm.PackageManager
 import androidx.core.content.ContextCompat
 import androidx.fragment.app.Fragment
 import hu.supercluster.paperwork.Paperwork
-import org.dhis2.BuildConfig
+import org.simprints.dhis2.BuildConfig
 
 fun Context.buildInfo(): String {
     val paperWork = Paperwork(this)

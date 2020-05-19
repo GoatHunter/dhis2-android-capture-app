@@ -90,7 +90,7 @@
                 android:textColorHint="@color/text_black_808"
                 tools:hint="hint">
 
-                <org.dhis2.utils.customviews.TextInputAutoCompleteTextView
+                <org.simprints.dhis2.utils.customviews.TextInputAutoCompleteTextView
                     android:id="@+id/input_editText"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"

@@ -3,7 +3,7 @@
 
     <data/>
 
-    <org.dhis2.utils.customviews.ScanTextView
+    <org.simprints.dhis2.utils.customviews.ScanTextView
         android:id="@+id/scanTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
